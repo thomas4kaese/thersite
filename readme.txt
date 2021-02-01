@@ -1,18 +1,16 @@
-Aufruf mittels:
+Call with arguments:
 
-argumente
- - f / --file	(pfad zur eingabe / template datei)
- - o / --output	(pfad zur ausgabedatei)
- - u / -- unit	(K oder C, C ist default)
-
-
-
-python thersite.py -f <pfad-zur-txt.txt>
- -> gibt Ergebnis in Konsole aus
-
-python thersite.py -f <pfad-zur-txt.txt> -o <pfad-zur-ausgabedatei>
- -> speichert Ergebnis am angebenen Pfad in angegebener Datei (wird überschrieben!)
+arguments
+ - f / --file	(path to input file - see template)
+ - o / --output	(path to output file - will be created)
+ - u / -- unit	(K or C, C is default)
 
 
-python thersite.py -f <pfad-zur-txt.txt> -o <pfad-zur-ausgabedatei> -u C
- -> wie davor, aber temperatur ist in grad celsius!
+python thersite.py -f <path-to-txt.txt>
+ -> output to console, linewise
+
+python thersite.py -f <path-to-txt.txt> -o <path-to-output>
+ -> saves results linewise to output file, will be overwritten
+
+python thersite.py -f <path-to-txt.txt> -o <path-to-output> -u C
+ -> like previous example, but in C
