@@ -1,5 +1,5 @@
 # thersite
-small python script for calculating tar dew points using ECN thersite calculator
+small python script for calculating tar dew points using ECN thersite calculator ("complete model", https://www.thersites.nl/completemodel.aspx)
 
 # Usage
 
