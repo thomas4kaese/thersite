@@ -1,0 +1,39 @@
+# Thersites export 20201122 120350
+"Compound" "Molecular weight" "Untitled"
+"Benzene" 78.11 0
+"Pyridine" 79.1 6
+"Toluene" 92.14 0
+"2-mePyridine" 93.13 0
+"3+4-mePyridine" 93.13 0
+"Ethylbenzene" 106.17 0
+"m/p-Xylene" 106.16 0
+"o-Xylene + Styrene" 106.17 0
+"Phenol" 94.11 9
+"o-Cresol" 108.14 0
+"Indene" 116.16 0
+"m/p-Cresol" 108.14 0
+"Naphthalene" 128.18 0
+"Quinoline" 129.16 0
+"Isoquinoline" 129.16 0
+"2-methylnaphthalene" 142.2 0
+"1-methylnaphthalene" 142.2 0
+"Biphenyl" 154.21 0
+"Ethenylnaphthalene" 154.21 0
+"Acenaphtylene" 152.19 77
+"Acenaphtene" 154.21 0
+"Fluorene" 166.23 0
+"Phenanthrene" 178.24 0
+"Anthracene" 178.24 0
+"Fluoranthene" 202.26 0
+"Pyrene" 202.26 0
+"Benzo(a)anthracene" 228.3 0
+"Chrysene" 228.3 0
+"Benzo(b)fluoranthene" 252.31 0
+"Benzo(k)fluoranthene" 252.31 0
+"Benzo(e)pyrene" 252.31 55
+"Benzo(a)pyrene" 252.31 0
+"Perylene" 252.31 0
+"Indeno(123-cd)perylene" 276.33 66
+"Dibenzo(a,h)anthracene" 278.35 0
+"Benzo(ghi)perylene" 276.33 23
+"Coronene" 300.35 42
